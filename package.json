@@ -1,0 +1,19 @@
+{
+  "name": "csc4035-lab05-dom",
+  "version": "1.0.0",
+  "description": "Lab 5: DOM Manipulation and Events - CSC4035 Web Programming",
+  "main": "app.js",
+  "scripts": {
+    "test": "node tests/visible/tests.js"
+  },
+  "keywords": [
+    "javascript",
+    "dom",
+    "events",
+    "csc4035"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^27.4.0"
+  }
+}
